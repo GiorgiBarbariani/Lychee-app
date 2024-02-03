@@ -1,0 +1,23 @@
+.kit-container {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.kit-name {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.kit-input {
+    width: 256px;
+    height: 32px;
+    border: 1px solid #2237FF;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: Monroe;
+    line-height: 16px;
+    padding-left: 15px;
+}

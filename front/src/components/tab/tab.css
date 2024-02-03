@@ -1,0 +1,25 @@
+.MuiTabs-indicator {
+    left: 0 !important;
+}
+
+.MuiBox-root {
+    padding: 0 !important;
+}
+
+.save-button {
+    width: 81px;
+    height: 30px;
+    background-color: #2237FF;
+    color: white;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+    margin-top: 20px;
+}
+
+hr {
+    background-color: #e1e1e1;
+    height: 1px;
+    margin-top: 80px;
+    margin-right: 300px;
+}
