@@ -1,9 +1,11 @@
 1. Run the Backend part:
 ## cd back
+## npm install
 ## node app.js nodemon
 
 2. Run the Frontend part:
 ## cd front
+## npm install
 ## npm run start
 
 3. Choose from a closed list (dropdown) the following: Listen on Spotify, Listen on Apple, Listen on Google.
